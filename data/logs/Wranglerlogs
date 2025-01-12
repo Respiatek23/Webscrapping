@@ -1,0 +1,496 @@
+2025-01-07 20:59:31,823 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-168-03.pdf.json.csv creado exitosamente
+2025-01-07 20:59:31,838 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-168-07.pdf.json.csv creado exitosamente
+2025-01-07 20:59:31,853 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-168-08.pdf.json.csv creado exitosamente
+2025-01-07 20:59:31,865 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-168-10.pdf.json.csv creado exitosamente
+2025-01-07 20:59:31,875 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-168-12.pdf.json.csv creado exitosamente
+2025-01-07 20:59:31,887 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-168-15.pdf.json.csv creado exitosamente
+2025-01-07 20:59:31,898 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-168-17.pdf.json.csv creado exitosamente
+2025-01-07 20:59:31,909 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-168-24.pdf.json.csv creado exitosamente
+2025-01-07 20:59:31,925 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-168-28.pdf.json.csv creado exitosamente
+2025-01-07 20:59:31,938 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-168-29.pdf.json.csv creado exitosamente
+2025-01-07 20:59:31,950 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-168-30.pdf.json.csv creado exitosamente
+2025-01-07 20:59:31,959 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-168-31.pdf.json.csv creado exitosamente
+2025-01-07 20:59:31,960 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-168-32.pdf.json
+2025-01-07 20:59:31,972 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-168-33.pdf.json.csv creado exitosamente
+2025-01-07 20:59:31,984 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-168-36.pdf.json.csv creado exitosamente
+2025-01-07 20:59:31,996 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-168-43.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,008 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-168-45.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,022 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-168-46.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,033 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-168-47.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,044 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-02.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,056 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-03.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,070 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-04.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,081 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-06.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,093 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-07.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,117 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-08.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,128 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'En la fecha de alta fisca' does not match format '%d.%m.%y'
+2025-01-07 20:59:32,130 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-11.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,140 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-12.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,153 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-13.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,167 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-15.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,179 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-16.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,190 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-17.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,206 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-18.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,216 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-19.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,227 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-21.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,229 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-169-22.pdf.json
+2025-01-07 20:59:32,242 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-25.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,257 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-28.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,269 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-30.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,271 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-169-31.pdf.json
+2025-01-07 20:59:32,281 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-35.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,290 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-36.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,292 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-169-40.pdf.json
+2025-01-07 20:59:32,303 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-43.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,318 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-46.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,318 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-169-47.pdf.json
+2025-01-07 20:59:32,329 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-169-48.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,341 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-03.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,352 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-04.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,365 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-06.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,377 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-07.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,388 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-12.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,400 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-14.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,410 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-15.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,423 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-17.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,434 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-18.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,445 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-21.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,456 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 16/07/2024
+2025-01-07 20:59:32,456 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 01/08/2024
+2025-01-07 20:59:32,458 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-22.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,459 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-170-23.pdf.json
+2025-01-07 20:59:32,471 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-24.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,482 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-27.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,498 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-28.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,512 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-29.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,524 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-30.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,535 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-33.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,546 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-34.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,557 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-35.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,568 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-36.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,570 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-170-38.pdf.json
+2025-01-07 20:59:32,579 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-40.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,593 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-41.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,605 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-43.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,616 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-44.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,629 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-46.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,639 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-47.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,650 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-49.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,662 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-170-50.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,675 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-02.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,688 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-03.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,700 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-06.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,712 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-07.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,724 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-09.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,736 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-10.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,747 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-11.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,758 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-12.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,771 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-13.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,783 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-15.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,794 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-17.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,810 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'INS' does not match format '%d.%m.%y'
+2025-01-07 20:59:32,813 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-20.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,825 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-21.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,841 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-23.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,855 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-25.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,869 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-27.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,887 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-29.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,901 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-30.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,915 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-31.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,931 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-33.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,947 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-35.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,961 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-36.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,974 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-37.pdf.json.csv creado exitosamente
+2025-01-07 20:59:32,976 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-171-40.pdf.json
+2025-01-07 20:59:32,990 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-41.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,003 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-43.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,018 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-45.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,038 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-46.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,055 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-47.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,070 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-48.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,086 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-171-51.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,107 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-03.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,126 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-04.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,141 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-07.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,165 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-08.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,167 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-172-09.pdf.json
+2025-01-07 20:59:33,180 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-11.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,193 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-14.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,207 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-15.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,220 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-17.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,231 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-18.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,242 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-19.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,254 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-24.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,273 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-28.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,286 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-29.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,301 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-30.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,313 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-31.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,327 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-35.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,341 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-36.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,342 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-172-38.pdf.json
+2025-01-07 20:59:33,357 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-39.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,370 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-42.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,385 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-43.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,398 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-46.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,409 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-172-47.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,410 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-173-02.pdf.json
+2025-01-07 20:59:33,423 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-03.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,425 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-173-04.pdf.json
+2025-01-07 20:59:33,436 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-05.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,437 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-173-06.pdf.json
+2025-01-07 20:59:33,450 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-07.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,462 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'DIA ALTA CENSAL' does not match format '%d.%m.%y'
+2025-01-07 20:59:33,465 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-08.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,477 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'el día del alta en el Imp' does not match format '%d.%m.%y'
+2025-01-07 20:59:33,479 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-11.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,490 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-12.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,503 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-15.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,504 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-173-18.pdf.json
+2025-01-07 20:59:33,515 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 31/07/2024
+2025-01-07 20:59:33,515 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 10072024
+2025-01-07 20:59:33,516 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 19/06/2024
+2025-01-07 20:59:33,518 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-22.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,531 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-25.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,546 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-28.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,560 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-29.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,561 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-173-31.pdf.json
+2025-01-07 20:59:33,572 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-33.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,573 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-173-35.pdf.json
+2025-01-07 20:59:33,585 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-36.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,594 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-40.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,607 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-41.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,618 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-43.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,628 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-45.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,640 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-46.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,641 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-173-47.pdf.json
+2025-01-07 20:59:33,654 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-173-50.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,663 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-02.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,675 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-03.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,687 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-04.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,698 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-06.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,711 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-08.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,712 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-174-10.pdf.json
+2025-01-07 20:59:33,723 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-11.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,735 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-12.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,747 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-14.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,760 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-15.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,774 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-16.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,788 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-17.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,800 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'DIA DE ALTA ACT PROF ECON' does not match format '%d.%m.%y'
+2025-01-07 20:59:33,800 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'DIA ALTA AEAT' does not match format '%d.%m.%y'
+2025-01-07 20:59:33,802 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-18.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,816 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-21.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,828 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-24.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,842 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-25.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,843 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-174-26.pdf.json
+2025-01-07 20:59:33,860 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-28.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,875 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-30.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,888 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-33.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,902 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-36.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,917 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-41.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,930 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-42.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,943 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-43.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,956 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-45.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,971 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-46.pdf.json.csv creado exitosamente
+2025-01-07 20:59:33,986 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-47.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,001 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-174-48.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,013 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-01.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,028 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-03.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,044 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-04.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,058 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-06.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,074 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-07.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,089 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'DIA INSCRIP' does not match format '%d.%m.%y'
+2025-01-07 20:59:34,092 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-08.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,106 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-11.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,120 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-12.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,134 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-13.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,147 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-14.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,161 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-15.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,175 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-17.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,176 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-175-24.pdf.json
+2025-01-07 20:59:34,190 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'El mismo día que en que q' does not match format '%d.%m.%y'
+2025-01-07 20:59:34,197 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-28.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,213 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-29.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,228 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-30.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,244 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-31.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,262 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-32.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,278 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-33.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,297 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-35.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,314 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-36.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,341 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-38.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,342 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-175-40.pdf.json
+2025-01-07 20:59:34,357 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-45.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,372 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-46.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,385 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-47.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,398 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-175-50.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,399 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-175-51.pdf.json
+2025-01-07 20:59:34,409 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-02.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,419 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-04.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,429 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-06.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,443 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-07.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,457 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-08.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,468 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: Efectos contables 1-01-24
+2025-01-07 20:59:34,468 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: Efectos contables 1-01-24
+2025-01-07 20:59:34,469 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: Efectos contables 1-01-24
+2025-01-07 20:59:34,471 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: Efectos contables 1-01-24
+2025-01-07 20:59:34,472 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-09.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,486 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-11.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,498 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-12.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,509 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-13.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,521 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-15.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,534 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-17.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,544 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-18.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,556 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-19.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,569 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-20.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,581 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-21.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,592 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 28/08/2024
+2025-01-07 20:59:34,592 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 01/12/2023
+2025-01-07 20:59:34,593 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 31/07/2024
+2025-01-07 20:59:34,594 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 31/07/2024
+2025-01-07 20:59:34,596 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-22.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,610 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-23.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,611 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-176-24.pdf.json
+2025-01-07 20:59:34,623 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-25.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,635 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-26.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,647 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'INS' does not match format '%d.%m.%y'
+2025-01-07 20:59:34,650 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-28.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,663 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-29.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,676 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-30.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,677 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-176-34.pdf.json
+2025-01-07 20:59:34,689 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-35.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,699 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-36.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,711 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-39.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,725 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-41.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,739 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-43.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,754 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-47.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,770 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-48.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,782 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-176-50.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,796 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-03.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,812 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-04.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,826 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-06.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,842 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-07.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,858 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-08.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,876 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-11.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,891 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-12.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,906 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-15.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,920 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-16.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,941 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-18.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,959 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-23.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,960 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-177-24.pdf.json
+2025-01-07 20:59:34,979 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-25.pdf.json.csv creado exitosamente
+2025-01-07 20:59:34,999 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-28.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,015 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-30.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,029 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-31.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,041 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-32.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,053 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-35.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,066 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-36.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,079 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-37.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,094 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-38.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,106 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-40.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,119 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-43.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,120 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-177-44.pdf.json
+2025-01-07 20:59:35,133 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-47.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,144 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-177-49.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,159 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-178-03.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,171 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-178-04.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,182 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-178-06.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,194 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-178-07.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,209 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-178-08.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,221 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-178-10.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,235 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-178-15.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,250 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-178-17.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,261 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-178-18.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,273 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-178-24.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,286 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-178-26.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,301 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'INS' does not match format '%d.%m.%y'
+2025-01-07 20:59:35,302 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'Ins' does not match format '%d.%m.%y'
+2025-01-07 20:59:35,305 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-178-28.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,319 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-178-30.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,332 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-178-36.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,347 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-178-41.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,348 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-178-42.pdf.json
+2025-01-07 20:59:35,360 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-02.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,373 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 1
+2025-01-07 20:59:35,375 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-03.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,388 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-04.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,400 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-06.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,412 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-07.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,413 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-179-09.pdf.json
+2025-01-07 20:59:35,426 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'LA FECHA DE ALTA FISCAL' does not match format '%d.%m.%y'
+2025-01-07 20:59:35,426 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'EN LA FECHA DE ALTA FISCA' does not match format '%d.%m.%y'
+2025-01-07 20:59:35,429 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-11.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,444 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-12.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,454 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-13.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,467 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-14.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,468 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-179-15.pdf.json
+2025-01-07 20:59:35,477 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 23/07/2024
+2025-01-07 20:59:35,479 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-22.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,493 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-23.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,505 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-25.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,518 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-26.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,529 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-27.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,547 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-28.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,563 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-29.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,579 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-30.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,593 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-35.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,609 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-36.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,625 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-38.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,637 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-40.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,652 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-45.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,668 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'La fecha del alta censal' does not match format '%d.%m.%y'
+2025-01-07 20:59:35,670 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-46.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,682 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'Inscr' does not match format '%d.%m.%y'
+2025-01-07 20:59:35,683 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-47.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,696 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-48.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,705 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-179-51.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,717 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-04.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,728 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-06.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,740 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-07.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,754 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-08.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,766 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-10.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,777 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-11.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,789 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-12.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,802 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-13.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,816 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-15.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,830 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-17.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,843 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-18.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,856 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 13/06/2024
+2025-01-07 20:59:35,856 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 18/07/2024
+2025-01-07 20:59:35,858 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-22.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,862 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-180-23.pdf.json
+2025-01-07 20:59:35,875 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-24.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,888 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-26.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,905 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-28.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,920 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-29.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,934 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-30.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,947 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-31.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,948 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-180-34.pdf.json
+2025-01-07 20:59:35,962 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-35.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,976 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-36.pdf.json.csv creado exitosamente
+2025-01-07 20:59:35,977 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-180-40.pdf.json
+2025-01-07 20:59:35,992 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-41.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,006 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-43.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,020 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-46.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,033 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-47.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,048 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-180-50.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,059 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-02.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,076 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-03.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,090 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-04.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,104 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-06.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,120 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-07.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,138 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-08.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,152 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-09.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,167 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-11.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,182 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-13.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,195 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-14.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,209 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-15.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,224 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-16.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,241 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-17.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,257 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-18.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,278 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-21.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,291 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 07/08/2024
+2025-01-07 20:59:36,293 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-22.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,310 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-23.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,323 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-24.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,337 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-26.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,353 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 7
+2025-01-07 20:59:36,355 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'INSCRITA CNMV' does not match format '%d.%m.%y'
+2025-01-07 20:59:36,359 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-28.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,374 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-29.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,388 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-32.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,400 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-33.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,401 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-181-35.pdf.json
+2025-01-07 20:59:36,413 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-37.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,425 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-39.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,437 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-44.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,450 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-45.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,462 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-46.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,472 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-47.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,485 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-48.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,498 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-181-50.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,509 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-01.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,520 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-02.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,532 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-03.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,544 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-04.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,557 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-06.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,569 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-07.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,583 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-08.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,592 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-09.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,604 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-11.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,616 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-12.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,628 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-15.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,639 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-16.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,651 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-17.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,662 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-19.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,675 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'FECHA ALTA IAE' does not match format '%d.%m.%y'
+2025-01-07 20:59:36,676 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-20.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,686 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 06/05/2024
+2025-01-07 20:59:36,687 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-22.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,699 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-25.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,714 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-28.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,727 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-30.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,739 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-33.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,750 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-34.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,761 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-35.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,774 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-36.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,788 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-38.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,804 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-41.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,816 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-43.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,827 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-44.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,840 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'El día en que se de de al' does not match format '%d.%m.%y'
+2025-01-07 20:59:36,843 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-46.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,859 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-47.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,872 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-182-49.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,888 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-01.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,902 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-02.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,920 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-03.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,921 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-183-04.pdf.json
+2025-01-07 20:59:36,940 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-06.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,959 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-07.pdf.json.csv creado exitosamente
+2025-01-07 20:59:36,977 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'DIA ALTA EN HACIENDA' does not match format '%d.%m.%y'
+2025-01-07 20:59:36,980 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-08.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,003 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-11.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,017 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-12.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,032 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-14.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,033 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-183-15.pdf.json
+2025-01-07 20:59:37,049 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-18.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,063 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-23.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,073 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-24.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,085 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-25.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,097 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-26.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,114 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-28.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,125 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-33.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,137 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-35.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,148 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-36.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,159 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-40.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,160 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-183-42.pdf.json
+2025-01-07 20:59:37,172 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-44.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,186 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-46.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,198 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-49.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,211 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-183-50.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,212 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-184-02.pdf.json
+2025-01-07 20:59:37,229 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-184-03.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,242 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-184-11.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,255 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-184-12.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,256 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-184-15.pdf.json
+2025-01-07 20:59:37,271 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-184-17.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,284 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-184-18.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,296 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 02/08/2024
+2025-01-07 20:59:37,297 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 17/07/2024
+2025-01-07 20:59:37,297 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 09/08/2024
+2025-01-07 20:59:37,298 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 01/10/2024
+2025-01-07 20:59:37,301 - Practica12 - ERROR - Error al procesar fecha de operaciones: unconverted data remains: 30/08/2024
+2025-01-07 20:59:37,306 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-184-22.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,318 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-184-24.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,330 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-184-25.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,331 - Practica12 - ERROR - No se pudieron cargar datos del archivo BORME-A-2024-184-26.pdf.json
+2025-01-07 20:59:37,348 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-184-28.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,364 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-184-29.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,375 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-184-33.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,388 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-184-35.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,400 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-184-36.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,412 - Practica12 - ERROR - Error al procesar fecha de operaciones: time data 'FECHA ALTA FISCAL' does not match format '%d.%m.%y'
+2025-01-07 20:59:37,414 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-184-41.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,428 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-184-46.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,440 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-184-48.pdf.json.csv creado exitosamente
+2025-01-07 20:59:37,452 - Practica12 - INFO - Archivo ../data/outputs/csv/BORME-A-2024-184-50.pdf.json.csv creado exitosamente
